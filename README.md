@@ -44,8 +44,12 @@ View Waveform:
 ```bash
 gtkwave wavetraffic.vcd
 ```
+## RTL Schematic
+![RTL Schematic](schematic.png)
+
 ## 📈 Simulation Waveforms
 ![waveform](traffic_wave1.png)
+
 ![waveform](traffic_wave2.png)
 
 ## ✨ Features
