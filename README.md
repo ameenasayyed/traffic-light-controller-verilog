@@ -44,6 +44,9 @@ View Waveform:
 ```bash
 gtkwave wavetraffic.vcd
 ```
+## Simulation Waveforms
+![waveform](traffic_wave1.png)
+![waveform](traffic_wave2.png)
 
 ## ✨ Features
 - FSM-based design
